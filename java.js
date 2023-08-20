@@ -1,4 +1,4 @@
-
+// version 1.1 of rock papers scissors
 //sets the values of win and loss counter to zero
 win=0;
 loss=0;   
